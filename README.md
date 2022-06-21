@@ -9,6 +9,6 @@ The numerical range of a complex nxn matrix A is the set
 
 where x is a vector, and x<sup>*</sup> denotes the conjugate transpose of the vector x.
 
-For some more properties of numerical ranges, see: https://numericalshadow.org/numerical-range/properties/#toeplitz1918algebraische
+For some relevant properties of numerical ranges, see: https://numericalshadow.org/numerical-range/properties/#toeplitz1918algebraische
 
 
